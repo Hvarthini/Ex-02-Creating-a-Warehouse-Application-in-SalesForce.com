@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# Name: KARTHICK V
+# Register Number: 212223040086
 
 ## AIM:
 To create a warehouse application in salesforce.com
